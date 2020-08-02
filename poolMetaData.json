@@ -1,8 +1,6 @@
-cat > poolMetaData.json << EOF
 {
 "name": "Cicada 3301",
 "description": "3301 Cicada Staking Pool",
 "ticker": "3301",
 "homepage": "https://3301.co.nz"
 }
-EOF
